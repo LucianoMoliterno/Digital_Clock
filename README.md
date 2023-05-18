@@ -1,2 +1,4 @@
 # Digital_Clock
-Digital clock that shows the exact time
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/Luciano-M/pen/bGmmpqB](https://codepen.io/Luciano-M/pen/bGmmpqB).
+
